@@ -1,0 +1,114 @@
+# Originally created by David Burkholder
+# Δημιουργήθηκε αρχικά από τον David Burkholder
+#
+# Created to block secret societies, lodges and fraternal organizations
+# Δημιουργήθηκε για να εμποδίζει τις μυστικές εταιρείες, τις Στοές και τις διάφορες Αδελφότητες.
+
+# Some gotten from exonumia.com. Much, much more there if you're wanting to expand this list.
+# Μερικές από αυτές πάρθηκαν από το exonumia.com. Υπάρχουν πολλές, πάρα πολλές εκεί μέσα, αν θέλετε να επεκτείνετε τον κατάλογο 
+
+#
+# listcategory: "Secret Societies"
+# listcategory: "Μυστικές Εταιρείες"
+#
+
+<μυστική εταιρεία><35> #secret societ
+<μυστικό σωματείο><35> #secret societ
+<μυστικός σύλλογος><35> #secret socie
+<μυστική ένωση><35> #secret societ
+<μυστικές εταιρείες><35> #secret societ
+<τάγμα αδελφότητας><35> #fraternal order
+<τάγμα αδελφότητος><35> #fraternal order
+<αδελφότητα><35> #fraternal society
+<ένωση αδελφότητας><35> #fraternal association
+<ένωση αδελφότητος><35> #fraternal association
+<σωματείο αδελφότητας><35> #fraternal league
+<σωματείο αδελφότηταο><35> #fraternal league
+
+<superior general><35>
+
+<ενωμένο τάγμα><35> #united order
+<ηνωμένο τάγμα><35> #united order
+
+<united society><35>
+<united association><35>
+<united league><35>
+<union league><35>
+
+#Secret Societies
+#Μυστικές Εταιρείες
+
+<λέσχη μπίλντερμπεργκ><45> #bilderberg group
+<νεκροκεφαλή και οστά><45> #skull and bones
+<κρανίο και οστά><45> #skull and bones, or skull & bones
+<κου κλουξ κλαν><45> #ku klux klan
+<αφοσιωμένο τάγμα><45> #loyal order
+<πιστό τάγμα><45> #loyal order
+<νομιμόφρον τάγμα><45> #loyal order
+<ιακωβίνος><45> #jacobin
+<ιακωβίνοι><45> #jacobin
+<ιακωβίνων><45> #jacobin
+<job's daughters><45>
+<ιππότες του χρυσού αετού><45> #knights of the golden eagle
+<ιακωβίνος><45> #jacobite
+<ιακωβίνοι><45> #jacobite
+<ιακωβίνων><45> #jacobite
+<τάγμα ιησουιτών><45> #jesuit order
+<ιησουιτικό τάγμα><45> #jesuit order
+<εταιρεία της Σιών><45> #company of sion
+<πεφωτισμένοι><45> #illuminati
+<ιλουμινάτι><45> #illuminati
+<ιλλουμινάτι><45> #illuminati
+<γεννηθήτω φως><45> #fiat lux
+
+<hibernians><45>
+<the red men><45>
+
+<ελεύθερος μασώνος><45> #freemason
+<ελεύθεροι μασώνοι><45> #freemason
+<ελεύθερος μασόνος><45> #freemason
+<ελεύθεροι μασόνοι><45> #freemason
+<ελεύθερος τέκτων><45> #freemason
+<ελεύθεροι τέκτονες><45> #freemason
+
+<master mason><45>
+
+<μασωνικός><45> #masonic
+<μασονικός><45> #masonic
+
+< elks >,<protective><25>
+<odd fellows><45>
+<rosicrucians><45>
+<τάγμα του ανατολικού αστέρος><45> #order of eastern star
+
+#Groups
+#Ομάδες
+
+<τάγμα δασοφυλάκων><45> #order of foresters
+
+<order of freesmiths><45>
+<order of gleaners><45>
+<order of owls><45>
+
+<τάγμα του><55> #order of the
+<τάγμα των><55> #order of the
+<τάγμα της><55> #order of the
+<τάγμα των δρουίδων><45> #order of druids
+<αφοσιωμένο τάγμα του><45> #loyal order of
+<πιστό τάγμα του><45> #loyal order of
+<νομιμόφρον τάγμα του><45> #loyal order of
+<αφοσιωμένο τάγμα της><45> #loyal order of
+<πιστό τάγμα της><45> #loyal order of
+<νομιμόφρον τάγμα της><45> #loyal order of
+<αφοσιωμένο τάγμα των><45> #loyal order of
+<πιστό τάγμα των><45> #loyal order of
+<νομιμόφρον τάγμα των><45> #loyal order of
+<ανεξάρτητο τάγμα του><30> #independent order of
+<ιππότες της πυθίας><45> #knights of pythias
+<ιππότες της Μάλτας><45> #knights of malta
+<ιππότες του ναού><45> #knights templar
+<ιππότες του αγίου τάφου><45> #knights of the holy sepulchre
+<ιππότες του τιμίου σταυρού><45> #knights of the holy cross
+<ιππότες της σφαίρας><45> #knights of the globe
+<ιππότες του μυστηρίου της μεσονυκτίας><45> #knights of the midnight mystery
+<ιππότες της τιμής><45> #knights of the honor

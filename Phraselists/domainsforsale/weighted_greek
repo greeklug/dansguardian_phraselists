@@ -1,0 +1,40 @@
+#
+# Phraselists to block parked domains - domains that are for sale
+# Originally created by Fernand Jonker
+#
+# If you use this list please send feedback to phrasemaster@dansguardian.org
+# Waiting for feedback and input
+#
+
+#listcategory: "Domain for Sale (Greek)"
+
+<το domain>,<πωλείται><150>
+<το όνομα χώρου>,<πωλείται><150>
+<το domain>,<είναι προς πώληση><150>
+<ψάξτε τον κατάλογο μας για περισσότερα domains><50>
+<αυτό το domain μπορεί να είναι προς πώληση από τον ιδιοκτήτη του><50>
+<αυτό το website είναι προς πώληση><50>
+<αυτό το website πωλείται><50>
+<αυτή η ιστοσελίδα είναι προς πώληση><50>
+<αυτή η ιστοσελίδα πωλείται><50>
+<domain names προς πώληση><50>
+<ονόματα χώρου προς πώληση><50>
+<πωλούνται domain names><50>
+<αγοράστε domains><50>
+<domain parking><50>
+<domain auction><50>
+<Πλειστηριασμός domain><50>
+<parking_form><50>
+<fabulousdomains><50>
+< sedo><50>
+<sedolinks><50>
+<αυτή η ιστοσελίδα είναι παρκαρισμένη><150>
+<αυτή η ιστοσελίδα φιλοξενείται><150>
+<not what you're looking for>,<popular searches><150>
+
+#Companies
+
+<buydomains.com><100>
+<fabulousdomains.com><50>
+<sedo.com><50>
+<sedoparking.com><50>

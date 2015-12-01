@@ -1,0 +1,177 @@
+#listcategory: "Weapons"
+#listcategory: "Όπλα"
+
+< 22lr ><10>
+< 357mag ><10>
+< 38spl ><10>
+< 45acp ><10>
+< advocate ><10>
+< advocates ><10>
+< ak 47 ><15>
+< ak47 ><15>
+< ammo ><10>
+
+< πυρομαχικά ><10> #ammunition
+
+< ar15 ><10>
+< armalite ><10>
+
+< οπλοστάσιο ><10> #armory
+< πυροβολικό ><10> #artillery
+
+< beltfed ><10>
+< belt fed ><15>
+< benelli ><10>
+
+< πυρίτις ><10> #black powder, or blackpowder
+< πυρίτιδα ><10> #black powder, or blackpowder
+
+< blueing ><10>
+< bluing ><10>
+< bolt action ><10>
+
+<κατασκευή βόμβας><70> #bomb building
+
+< bren ten ><10>
+
+< σφαίρα ><15> #bullet
+< σφαίρες ><15> #bullets
+< διαμέτρημα ><10> #caliber
+< διαμετρήματος ><10> #caliber
+< διαμετρήματα ><10> #calibers
+< καραμπίνα ><10> #carbine
+
+< centerfire ><10>
+< checkering ><10>
+< control ><10>
+< cruise missile ><10>
+< cruise missiles ><10>
+< diskettbomb ><70>
+< πυροβόλο όπλο ><10> #firearm
+< πυροβόλα όπλα ><10> #firearms
+< επικρουστήρας ><10> #firing pin
+
+< flintlock ><10>
+< flintlocks ><10>
+< garotte ><10>
+< garrote ><15>
+< glock ><10>
+
+< όπλο ><15> #gun, or weapon
+< όπλα ><15> #guns, or weapons
+<κατακευή όπλου><70> #gun making
+<κατακευή όπλων><70> #gun making
+< σκόνη πυροβόλων όπλων ><10> #gun powder, or gunpowder
+< σκόνη πυροβόλου όπλου ><10> #gun powder, or gunpowder
+
+< εμβέλεια πυροβόλου όπλου ><15> #gun range, or gunrange
+< εμβέλεια όπλου ><15> #gun range, or gunrange
+< εμβέλεια πυροβόλου όπλων ><15> #gun range, or gunrange
+< εμβέλεια όπλων ><15> #gun range, or gunrange
+
+< κατάστημα όπλων ><15> #gunshop
+< οπλοποιός ><15> #gunsmith
+< gunsmithing ><15>
+< περίστροφο ><10> #handgun
+< περίστροφα ><10> #handguns
+< φόρτωση με το χέρι ><10> #handloading
+< χειροκίνητη φόρτωση ><10> #handloading
+
+< heckler kock ><10>
+< kahr ><10>
+
+< μαχαίρι ><15> #knife
+< μαχαίρια ><15> #knives
+
+< m16 ><10>
+< mac10 ><10>
+
+< πολυβόλο ><10> #machine gun, or machinegun
+< οπλοπολυβόλο ><10> #machine gun, or machinegun
+
+< πολυβόλα ><10> #machineguns, or machine guns
+< οπλοπολυβόλα ><10> #machineguns, or machine guns
+
+< marksmanship ><10>
+
+< μάουζερ ><10> #mauser
+
+< mossberg ><10>
+< muzzleloader ><10>
+< muzzleloading ><10>
+< nra ><10>
+< ordnance ><10>
+< parkerize ><10>
+< parkerizing ><10>
+
+< πιστόλι ><10> #pistol
+< πιστόλια ><10> #pistols
+< κατασκευαστής πιστολιών ><15> #pistolsmith
+
+< radarjamming ><70>
+< recoil buffer ><10>
+< recoil buffers ><10>
+< ρεβόλβερ ><10> #revolver
+< ρεβόλβερς ><10> #revolvers
+< τουφέκι ><10> #rifle
+< ντουφέκι ><10> #rifle
+< τουφέκια ><10> #rifles
+< καραμπίνες ><10> #rifles
+
+< rifling ><10>
+< rimfire ><10>
+< ruger ><10>
+< saiga ><10>
+< schrotflinte ><10>
+< ημιαυτόματο ><10> #semiauto, or semi automatic, or semiautomatic
+
+< shooters ><10>
+< shooting ><15>
+< shootist ><10>
+< κυνηγετικό όπλο ><10> #shotgun
+< κυνηγετικά όπλα ><10> #shotguns
+
+< shuriken ><10>
+< sidearm ><10>
+< sidearms ><10>
+< sigarms ><10>
+
+< σμιθ γουέσσον ><15> #smith wesson
+< ελεύθερος σκοπευτής ><10> #sniper
+< κρυφός σκοπευτής ><10> #sniper
+
+< sniping ><10>
+< speedloader ><10>
+< steyr ><10>
+< sub machinegun ><15>
+< submachinegun ><15>
+< sub machineguns ><15>
+< submachineguns ><15>
+
+< σπάθα ><10> #sword
+< σπαθί ><10> #sword
+< ξίφος ><10> #sword
+< σπάθες ><10> #swords
+< σπαθιά ><10> #swords
+< ξίφη ><10> #swords
+
+< tactical ><10>
+< tec9 ><10>
+
+< εγχειρίδιο τρομοκράτη ><70> #terroristhandbook 
+< εγχειρίδιο τρομοκρατίας ><70> #terroristhandbook 
+< εγχειρίδιο τρομοκρατών ><50> #terrorists handbook
+< ούζι ><10> #uzi
+
+< wadcutter ><10>
+< walther ><10>
+
+< γουίντσεστερ ><10> #winchester
+
+< fertilizer bomb ><15>
+< triiodide ><15>
+< solidox ><15>
+< thermite ><15>
+
+< κοκτέιλ μολότωφ ><25> #molotov cocktail
+

@@ -1,0 +1,45 @@
+#
+# Phraselists to block gambling sites
+# Κατάλογοι φράσεων για την παρεμπόδιση των ιστοσελίδων τζόγου
+
+#listcategory: "Gambling"
+#Κατηγορία καταλόγου: "Τυχερά παιγνίδια"
+
+< στοίχημα >,<πόκερ><40> #< bet >,<poker><40>
+< στοιχηματισμός ><30> #< betting >
+< στοίχημα ><30> #< betting >
+< μπλάκτζακ ><30> #< blackjack >
+< μπλακ τζακ ><30> #< blackjack >
+< καζίνο ><30> #< casino >
+< τζογαδόροι ><30> #< gamblers >
+< τζογάροντας ><30> #< gambling >
+< τζακ ποτ ><20> #< jackpot >
+< τζάκποτ ><20> #< jackpot >
+< λότο ><30> #< loto > or < lotto >
+< λοταρία ><30> #< lotteri > or < lottery >
+< λοταρίες ><20> #< lotteries >
+
+< prispott ><20> #
+< ρουλέτα ><30> #< roulette >
+< φιδίσια μάτια ><20> #< snake eyes > or < snakeeyes >
+
+< sports book ><10> #
+< sportsbook ><10> #
+< totalisator ><30> #
+< wagering ><50> #
+< wager ><30> #
+
+<δωμάτιο χαρτοπαιξίας><10> #<card room>
+<green card lottery><30> #
+<greencard lottery><30> #
+<πόκερ>,<online><50> #<poker>,<online>
+<τουρνουά>,<πόκερ><50> #<poker>,<tournament>
+<εικονικό>,<πόκερ><50> #<poker>,<virtual>
+<βιντεοπόκερ><30> #<videopoker>
+<βίντεο πόκερ><30> #< video poker >
+<εικονικό καζίνο><30> #<virtual casino>
+<εικονικό casino><30> #<virtual casino>
+<εικονικό βέγκας><30> #<virtual vegas>
+<εικονικό vegas><30> #<virtual vegas>
+<εικονικόκαζίνο><30> #<virtualcasino>
+ 
